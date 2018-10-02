@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagingRestApi</string>
+    <string name="retry">RETRY</string>
+</resources>
